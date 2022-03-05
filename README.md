@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="30" width="40"/>
+  <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="30" width="40" align="center"/>
   <img align="center" alt="Emffor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emffor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emffor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

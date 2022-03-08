@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/emffor">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=emffor&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://cdn-icons.flaticon.com/png/512/2325/premium/2325966.png?token=exp=1646738824~hmac=c61e6806268fab41c25b565ece4b9d07"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emffor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 

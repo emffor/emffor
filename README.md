@@ -11,8 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" height="30" width="40" align="center"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" height="35" width="40" align="center"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" height="35" width="40" align="center"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/882/882704.png" height="35" width="40" align="center"/>
   <img align="center" alt="Emffor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emffor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emffor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

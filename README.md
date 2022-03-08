@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="30" width="40" align="center"/>
+  <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504881.png?token=exp=1646738743~hmac=bb8ec5843afca667959737a9cbe4d6fc" height="30" width="40" align="center"/>
   <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35" width="40" align="center"/>
   <img align="center" alt="Emffor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emffor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -16,7 +16,7 @@ Desenvolvimento Full Stack · Arquitetura de Software · Backend · Inteligênci
   <a href="https://www.linkedin.com/in/eloanferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eloanmf@hotmail.com">
+  <a href="mailto:emfeloan@gmail.com">
     <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
